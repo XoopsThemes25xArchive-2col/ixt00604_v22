@@ -1,0 +1,42 @@
+/*////////////////////////////////////////////////////////////////////*/
+/* FILENAME:   LICENSE_CREDIT.txt                                     */
+/* PURPOSE:    To specify attribution for original works as well as   */
+/*             to provide details of the licensing governing the      */
+/*             works included in this collection.                     */
+/* AUTHOR:     JMorris (jrmorris77[at]gmail[dot]com)                  */
+/* DATE:       12:26 AM Monday, November 24, 2008                     */
+/* VERSION:    1.0.0                                                  */
+/*////////////////////////////////////////////////////////////////////*/
+
+FILE NAME: 480px-Teacup-svg_src.png
+SOURCE: http://commons.wikimedia.org/wiki/Image:Teacup.svg
+AUTHOR: http://commons.wikimedia.org/wiki/User:Misza13
+LICENSE: http://commons.wikimedia.org/wiki/Image:Teacup.svg#Licensing
+
+/*////////////////////////////////////////////////////////////////////*/
+
+FILE NAME: large-delicate-leaf.png
+SOURCE: Multiple Sources 
+(Potential Sources: http://www.cksinfo.com/nature/leaves/index.html 
+http://www.wpclipart.com/plants/leaf/large_delicate_leaf.png.html)
+AUTHOR: Unknown
+LICENSE: Undisclosed or conflicting. Redistributed on multiple free 
+clipart sites.
+(Potential Terms: http://www.cksinfo.com/termsofuse.html 
+http://www.wpclipart.com/legal.html)
+
+/*////////////////////////////////////////////////////////////////////*/
+
+FILE NAME(S): *All remaining graphics*
+SOURCE: *Original or Derivative Works*
+AUTHOR: James Morris (aka: JMorris) jrmorris77 [at] gmail [dot] com
+LICENSE: With the exception of derivative works based on the preceding 
+graphics, all original works in this collection are protected under the
+Creative Commons Attribution 3.0 Unported License. Details of this 
+license can be obtained from http://creativecommons.org/licenses/by/3.0/
+A link to my profile on *.impresscms.org or to any of my websites is not
+necessary, but one would be appreciated. All that is required is that
+proper attribution be given in this file and that this file remain intact
+and accompanying my original/derivative works.
+
+/*////////////////////////////////////////////////////////////////////*/
